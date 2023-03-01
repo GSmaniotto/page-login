@@ -43,8 +43,8 @@ main {
 }
 
 .login_logo{
-  width: 150px;
-  margin-bottom: 80px;
+  width: 200px;
+  margin-bottom: 40px;
 }
 
 .login_title{
@@ -100,7 +100,7 @@ main {
 }
 
 .login_icons img{
-  width: 20px;
+  width: 28px;
 }
 
 .icons_button{
@@ -126,7 +126,7 @@ main {
 
 .login_label--checkbox{
   width: 100%;
-  margin: 15px 0 50px;
+  margin: 70px 0 50px;
   font-size: 0.9em;
   font-weight: 500;
   display: flex;
@@ -159,7 +159,7 @@ main {
 .login_button{
   width: 60px;
   height: 60px;
-  padding: 20px;
+  padding: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -167,7 +167,7 @@ main {
   border-radius: 20px;
   border: none;
   cursor: pointer;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 .login_button svg {
